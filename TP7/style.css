@@ -1,0 +1,37 @@
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    color: red ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+}
+.centrado{
+    display: flex;
+    justify-content: center;
+}
+p{
+    color: rgb(115, 255, 0);
+    font-size: 2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2 {
+    font-size: 2em;
+    font-style: italic;
+}
+ul li {
+    color: black;
+    font-style: oblique;
+    font-family: serif;
+    font-size: 2em;
+}
+
+.grupos:hover{
+    color: black;
+    background-color: rgb(4, 4, 71);
+    cursor: pointer;
+}
+body {
+    background-image: url(https://tn.com.ar/resizer/pK800zKAoXodpsa4KUk4gbeK2kI=/arc-anglerfish-arc2-prod-artear/public/UYACJNWTLZDFHLTRMSV4B76Y2U.png);
+    background-size: cover;
+}
